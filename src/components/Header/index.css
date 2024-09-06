@@ -1,0 +1,9 @@
+.h-container {
+  height: 20vh;
+  background-color: #f1f5f9;
+  background-size: cover;
+}
+.nav-bar {
+  height: 100px;
+  width: 100px;
+}
