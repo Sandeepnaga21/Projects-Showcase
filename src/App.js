@@ -1,6 +1,6 @@
-import Projects from './components/Projects'
 import './App.css'
+import Home from './Components/Home'
 
-const App = () => <Projects />
+const App = () => <Home />
 
 export default App
